@@ -1,16 +1,26 @@
-# juice_store
+# Juice Store (Flutter)
 
-A new Flutter project.
+Ứng dụng đặt nước ép đơn giản viết bằng Flutter.
 
-## Getting Started
+## Features
+- Danh sách sản phẩm
+- Chọn size + topping
+- Giỏ hàng
+- Checkout tạo đơn
+- Xem lịch sử đơn hàng
 
-This project is a starting point for a Flutter application.
+## Tech
+- Flutter / Dart
 
-A few resources to get you started if this is your first Flutter project:
+### 2) Thêm ảnh screenshot vào repo
+1. Chạy app trên emulator
+2. Chụp 2–3 ảnh (Home / Cart / Checkout)
+3. Tạo thư mục trong project: `assets/screenshots/`
+4. Copy ảnh vào đó (ví dụ: `home.png`, `cart.png`, `checkout.png`)
+5. Cập nhật `README.md` thêm đoạn này dưới mục Screenshots:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```md
+## Screenshots
+![Home](assets/screenshots/home.png)
+![Cart](assets/screenshots/cart.png)
+![Checkout](assets/screenshots/checkout.png)
